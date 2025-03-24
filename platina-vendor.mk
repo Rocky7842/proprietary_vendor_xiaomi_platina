@@ -94,15 +94,8 @@ PRODUCT_PACKAGES += \
     activity_recognition.sdm660 \
     android.hardware.gatekeeper@1.0-impl-qti \
     android.hardware.keymaster@3.0-impl-qti \
-    audio.primary.sdm660 \
-    liba2dpoffload \
-    libaudio_log_utils \
-    libaudioroute_ext \
-    libhdmiedid \
-    libhfp \
     libsensor1 \
     libsensor_reg \
-    libsndmonitor \
     libthermalclient \
     sensors.ssc \
     libFaceGrade \

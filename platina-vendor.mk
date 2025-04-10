@@ -603,7 +603,6 @@ PRODUCT_PACKAGES += \
     libgf_ca \
     libgf_hal \
     libthermalioctl \
-    vendor.goodix.hardware.fingerprintextension@1.0 \
     FingerprintExtensionService \
     com.fingerprints.extension \
     cnss-daemon \

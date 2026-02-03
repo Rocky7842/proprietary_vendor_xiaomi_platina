@@ -8634,7 +8634,7 @@ cc_prebuilt_library_shared {
 android_app_import {
 	name: "FingerprintExtensionService",
 	owner: "xiaomi",
-	apk: "proprietary/app/FingerprintExtensionService/FingerprintExtensionService.apk",
+	apk: "proprietary/system/app/FingerprintExtensionService/FingerprintExtensionService.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
@@ -8644,7 +8644,7 @@ android_app_import {
 dex_import {
 	name: "com.fingerprints.extension",
 	owner: "xiaomi",
-	jars: ["proprietary/framework/com.fingerprints.extension.jar"],
+	jars: ["proprietary/system/framework/com.fingerprints.extension.jar"],
 }
 
 cc_prebuilt_binary {

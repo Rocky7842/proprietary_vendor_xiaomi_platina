@@ -9,6 +9,7 @@ soong_namespace {
         "hardware/qcom-caf/sdm660",
         "hardware/qcom-caf/wlan",
         "hardware/xiaomi",
+        "vendor/qcom/opensource/display",
     ],
 }
 
